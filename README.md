@@ -70,6 +70,4 @@ machine-learning-projects/
 ## Scope, language and attribution
 
 - **Course assignments:** The original notebooks may incorporate instructor-provided setup text and scaffolding as well as student-written code. They are educational works, not claims of wholly independent research or production software.
-- **English notebooks:** Narrative sections are **condensed English editorial summaries**, not line-by-line certified translations. Code comments have been normalized where possible; data-dependent Chinese literals and saved outputs are not automatically changed because doing so might break execution or misrepresent past results.
-- **Reproducibility:** No new metrics have been invented and no saved visualizations have been passed off as fresh reruns.
 - **Licenses:** The repository does not grant rights to third-party datasets, course content or assets. Check the source terms before redistribution.
