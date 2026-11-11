@@ -1,0 +1,18 @@
+# Broad portfolio dependencies; install additional packages as required per notebook
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+Pillow
+opencv-python
+nltk
+# For final project / optional experiments:
+xgboost
+lightgbm
+catboost
+optuna
+scikit-learn-extra
